@@ -1,4 +1,13 @@
-# https://viktarrudzenia.github.io/frontend-nanodegree-mobile-portfolio/
+# [Optimized Portfolio link](https://viktarrudzenia.github.io/frontend-nanodegree-mobile-portfolio/ "Optimized Portfolio link")
+
+Completing this task I became more familiar with Website Performance Optimization. Used the following methods:
+
+-   convert all needed images to optimal size;
+-   minify all css and js files;
+-   add async to js where needed;
+-   delete unnecessary lines of code;
+-   move out functions and variables from other functions or loops to optimize fps (main.js);
+-   change vars to const/let (main.js);
 
 ## Website Performance Optimization portfolio project
 
